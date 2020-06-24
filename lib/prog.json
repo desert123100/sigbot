@@ -1,0 +1,335 @@
+{
+    "tiers":{
+        "nyalotha": {
+            "normal":{
+                "wrathion": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=1"
+                },
+                "skitra": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=11"
+                },
+                "maut": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=6"
+                },
+                "xanesh": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=22"
+                },
+                "hivemind": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=31"
+                },
+                "shadhar": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=46"
+                },
+                "drestagath": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=51"
+                },
+                "vexiona": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=27"
+                },
+                "raden": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=37"
+                },
+                "ilgynoth": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=54"
+                },
+                "carapace": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CZ7Pa1DYH3gdBTtr/#fight=59"
+                },
+                "nzoth": {
+                    "wipes": "10",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/AzLbCQN1RgK4Bh7T#fight=7"
+                }
+            },
+            "heroic":{
+                "wrathion": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=1"
+                },
+                "skitra": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=5"
+                },
+                "maut": {
+                    "wipes": "2",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=13"
+                },
+                "xanesh": {
+                    "wipes": "6",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=27"
+                },
+                "hivemind": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=33"
+                },
+                "shadhar": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CyADNwHpYPz8QZ4T/#fight=8"
+                },
+                "drestagath": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CyADNwHpYPz8QZ4T/#fight=11"
+                },
+                "vexiona": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CyADNwHpYPz8QZ4T/#fight=26"
+                },
+                "raden": {
+                    "wipes": "5",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/m8N2cn6H3bh1xA7d/#fight=last"
+                },
+                "ilgynoth": {
+                    "wipes": "4",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CyADNwHpYPz8QZ4T#fight=19"
+                },
+                "carapace": {
+                    "wipes": "5",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CyADNwHpYPz8QZ4T#fight=36"
+                },
+                "nzoth": {
+                    "wipes": "14",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/AzLbCQN1RgK4Bh7T#fight=last"
+                }
+            },
+            "mythic":{
+                "wrathion": {
+                    "wipes": "8",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/WmcbFGZyQCH7qNzk#fight=9"
+                },
+                "skitra": {
+                    "wipes": "3",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/WmcbFGZyQCH7qNzk#fight=17"
+                },
+                "maut": {
+                    "wipes": "18",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/r8baCcR2jXN3qdmP#fight=8"
+                },
+                "xanesh": {
+                    "wipes": "63",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/x7Kt1NcXR2TvQ8BC#fight=last"
+                },
+                "hivemind": {
+                    "wipes": "47",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/zj6QfRJgaDA8NWGy#fight=28"
+                },
+                "shadhar": {
+                    "wipes": "44",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/JwfK8r2ZbTYkLPtB#fight=4"
+                },
+                "drestagath": {
+                    "wipes": "52",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/89f31ZvGnLyHzCma#fight=last"
+                },
+                "vexiona": {
+                    "wipes": "35",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/RGTYCgWqJB81fFxH#fight=last"
+                },
+                "raden": {
+                    "wipes": "47",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/rZcCHT9myYFBpgMb#fight=last"
+                },
+                "ilgynoth": {
+                    "wipes": "49",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LMtfKDk92aTqymWx#fight=last"
+                },
+                "carapace": {
+                    "wipes": "55",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/hVcnFGARy1gf7dWz#fight=last"
+                },
+                "nzoth": {
+                    "wipes": "362",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/CJFhzrqfZxTA4gGR#fight=3"
+                }
+            }
+        }, 
+        "ep": {
+            "normal":{
+                "sivara": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=1"
+                },
+                "behemoth": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=5"
+                },
+                "radiance": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=10"
+                },
+                "ashvane": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=13"
+                },
+                "orgozoa": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=17"
+                },
+                "court": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=21"
+                },
+                "zaqul": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=26"
+                },
+                "azshara": {
+                    "wipes": "6",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/3gWat4kwKp6rATP8#fight=last"
+                }
+            },
+            "heroic":{
+                "sivara": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=4"
+                },
+                "behemoth": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=11"
+                },
+                "radiance": {
+                    "wipes": "1",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=21"
+                },
+                "ashvane": {
+                    "wipes": "2",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=25"
+                },
+                "orgozoa": {
+                    "wipes": "0",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=27"
+                },
+                "court": {
+                    "wipes": "2",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LwH1DqZkfTJaVgF8#fight=last"
+                },
+                "zaqul": {
+                    "wipes": "16",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/vAbp3xV7CWhQn6gP#fight=16"
+                },
+                "azshara": {
+                    "wipes": "53",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/bFMcX9tYJWfCADjx/#fight=last"
+                }
+            },
+            "mythic":{
+                "sivara": {
+                    "wipes": "21",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/ZGnTa781PR2XDJB6#fight=14"
+                },
+                "behemoth": {
+                    "wipes": "11",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/7xtWnBAqMFp3RG4r#fight=7"
+                },
+                "radiance": {
+                    "wipes": "11",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/Qn6GbxPk1YAwWm4r#fight=last"
+                },
+                "ashvane": {
+                    "wipes": "138",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/wWmafcBqDAvQFzJb#fight=7"
+                },
+                "orgozoa": {
+                    "wipes": "66",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/LZRp9D2WmaYBjH83#fight=15"
+                },
+                "court": {
+                    "wipes": "49",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/mKXqaBWz47Zr2TGM#fight=last"
+                },
+                "zaqul": {
+                    "wipes": "136",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/4KhfF382AJmxnQky#fight=last"
+                },
+                "azshara": {
+                    "wipes": "265",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/1zCLqAWQJahZRY3H#fight=last"
+                }
+            }
+        },
+        "bod": {
+            "mythic": {
+                "jaina": {
+                    "wipes": "204",
+                    "best": "0%",
+                    "log": "https://www.warcraftlogs.com/reports/cg7ywCTVPHxdQ98n/#fight=last"
+                }
+            }
+
+        }
+    }
+}
+        
+
+            
+        
+    
