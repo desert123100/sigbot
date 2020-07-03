@@ -46,6 +46,7 @@ def main():
         return None
     else:
         for message in messages:
+            msg = service.users().messages().modify(userId='me', id=message['id'], body={'removeLabelIds': ['UNREAD']}).execute()
             msg = service.users().messages().get(userId='me', id=message['id']).execute()
             subject = (msg['payload']['headers'][17]['value'])
             if subject == "Guild Application":
@@ -53,7 +54,6 @@ def main():
                 data = base64.urlsafe_b64decode(data)
                 body = BeautifulSoup(data, 'lxml').body
                 body = str(body)[9:].split('----')[0]
-                #msg = service.users().messages().modify(userId='me', id=message['id'], body={'removeLabelIds': ['UNREAD']}).execute()
                 apps['apps'].append(body)
         return apps
 if __name__ == '__main__':
