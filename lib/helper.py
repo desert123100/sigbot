@@ -7,6 +7,19 @@ class SigHelper:
     
     def __init__(self):
         pass
+
+    def getCurrentTier(self):
+        return 'nathria'
+    
+    def getCurrentDifficulty(self, tier):
+        with open(os.path.join(self.here,'prog.json')) as json_file:
+            data = json.load(json_file)
+            for difficulty in data['tiers'][tier]:
+                temp = data['tiers'][tier][difficulty]
+                for boss in temp:
+                    if temp[boss]['best'] != '0%':
+                        return difficulty
+            return difficulty
     
     def getCurrentBoss(self, tier):
         with open(os.path.join(self.here,'prog.json')) as json_file:
