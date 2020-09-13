@@ -1,5 +1,163 @@
 {
     "tiers":{
+        "nathria": {
+            "normal":{
+                "shriekwing": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "altimor": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "destroyer": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "xymox": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "salvation": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "inerva": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "council": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "sludgefist": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "generals": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "denathrius": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                }
+            },
+            "heroic":{
+                "shriekwing": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "altimor": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "destroyer": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "xymox": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "salvation": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "inerva": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "council": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "sludgefist": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "generals": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "denathrius": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                }
+            },
+            "mythic":{
+                "shriekwing": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "altimor": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "destroyer": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "xymox": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "salvation": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "inerva": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "council": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "sludgefist": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "generals": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                },
+                "denathrius": {
+                    "wipes": "0",
+                    "best": "100%",
+                    "log": ""
+                }
+            }
+        },
         "nyalotha": {
             "normal":{
                 "wrathion": {

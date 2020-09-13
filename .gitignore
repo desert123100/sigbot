@@ -141,4 +141,7 @@ cython_debug/
 # secrets
 lib/credentials.json
 lib/token.pickle
+lib/secret.py
+token.pickle
+credentials.json
 token.pickle

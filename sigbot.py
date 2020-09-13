@@ -22,9 +22,8 @@ if __name__ == '__main__':
 async def status_task():
         bodies = lib.mail.main()
         if bodies == None:
-            print('no messages')
             return
-        channel = bot.get_channel(550318783810764810)
+        channel = bot.get_channel(550318783810764810) #recruitment
         for body in bodies['apps']:
             await channel.send(body)
             print('New Recruit')
