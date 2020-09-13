@@ -7,8 +7,8 @@ class RaidCommands(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-        self.current_tier = 'nathria'
-        self.default_difficulty = 'mythic'
+        self.current_tier = SigHelper.getCurrentTier(self=SigHelper)
+        self.default_difficulty = SigHelper.getCurrentDifficulty(self=SigHelper, tier=self.current_tier)
     
     @commands.command(aliases = ['wipes', 'best'], 
                 brief='Gets progress of specified boss', 
